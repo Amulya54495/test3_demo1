@@ -1,3 +1,4 @@
+
 public class Addition {
     public static void main(String[] args){
         int a=20,b=10,c;
@@ -5,6 +6,5 @@ public class Addition {
          System.out.println("addition of two numbers is:" +c);
     }
 }
-//This is an addition 
-//end 
-//pgm
+//addition program
+//end of the program
