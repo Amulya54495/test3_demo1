@@ -7,3 +7,4 @@ Recipes:
 5. Masala dosa
 6.pizza
 7. Spicy food
+8. salad
