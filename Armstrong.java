@@ -1,3 +1,4 @@
+  //Armstrong program
 package Mypackage;
 import java.util.Scanner;
 public class Armstrong {                            //sum of cubes of each digit equal to that number
