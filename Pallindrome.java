@@ -1,3 +1,4 @@
+public class Pallindrome{
 import java.util.Scanner;
  public class Pallindrome {
     public static void main(String[] args){
@@ -9,7 +10,7 @@ import java.util.Scanner;
       for(int i=length-1;i>=0;i--){
        revword=revword+word.charAt(i);   //charAt is used to read each character of string
       }
-        if(word.equals(revword)){         //checks whether the word is equals to reverse of a word
+        if(word.equals(revword)){
          System.out.println("Given word is a pallindrome");
         }
         else{
