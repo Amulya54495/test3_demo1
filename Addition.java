@@ -4,8 +4,9 @@ public class Addition {
         int a=20,b=10,c;
          c=a+b;
          System.out.println("addition of two numbers is:" +c);
-        System,out.println("print result");
+        System.out.println("\n");
     }
 }
-//addition program
+//This is an addition program
 //end of the program
+
