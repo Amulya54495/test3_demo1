@@ -1,7 +1,7 @@
 
 @FunctionalInterface
 interface JavaFirst {
-    void print();
+    void print();                                          //interface has only one abstract method
     
     default void defaultprint() {
         System.out.println("interface");
