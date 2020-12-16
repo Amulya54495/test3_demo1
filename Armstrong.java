@@ -3,7 +3,7 @@ package Mypackage;
 import java.util.Scanner;
 public class Armstrong {                            //sum of cubes of each digit equal to that number
     public static void main(String[] args){
-        int n,rem,sum=0,temp;
+        int n,rem,sum=0,temp;                       //rem variable name signifies the remainder of given number
       Scanner a=new Scanner(System.in);
       System.out.println("Enter a number");
        n=a.nextInt();
